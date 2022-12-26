@@ -117,11 +117,14 @@ módulos:
 
 ### Dicas
 
-#### Utilize sinais de controle: Como os módulos saberão se é ou não a hora de transmitir a
+#### Utilize sinais de controle: 
+Como os módulos saberão se é ou não a hora de transmitir a
 mensagem final? Através de sinais de controle. Crie tantos quanto forem necessários, desde que
 sejam coerentes;
 
-#### Reset: Não existe nenhum tipo de circuito que não precise, em algum momento, retornar a um
+#### Reset: 
+Não existe nenhum tipo de circuito que não precise, em algum momento, retornar a um
 estado inicial. Portanto, não se esqueça de implementar o sinal de controle em questão.
 
-#### Entrada inválida: Utilizem uma forma para representar uma entrada inválida.
+#### Entrada inválida: 
+Utilizem uma forma para representar uma entrada inválida.
